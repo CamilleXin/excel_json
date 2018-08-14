@@ -1,0 +1,74 @@
+[
+  {
+    "number": "10100052426",
+    "location": "9-2D11-01",
+    "san_port": "NFDXSN36-L1/S4/P0, NFDXSN35-L1/S4/P0",
+    "san_status": "shutdown",
+    "san_type": "明确上架",
+    "san_switch_location": "9-2D13-3",
+    "ip_port": "NF70SW0A-A1/E3/1, NF70SW0B-A1/E3/1",
+    "ip_status": "up",
+    "ip_type": "未明确上架",
+    "ip_switch_location": "9-2D09-06"
+  },
+  {
+    "number": "10100052426",
+    "location": "9-2D11-01",
+    "san_port": "NFDXSN36-L1/S4/P12, NFDXSN35-L1/S4/P12",
+    "san_status": "shutdown",
+    "san_type": "明确上架",
+    "san_switch_location": "9-2D13-3",
+    "ip_port": "NF70SW0A-A1/E3/2, NF70SW0B-A1/E3/2",
+    "ip_status": "shutdown",
+    "ip_type": "未明确上架",
+    "ip_switch_location": "9-2D09-06"
+  },
+  {
+    "number": "10100052426",
+    "location": "9-2D11-01",
+    "san_port": "NFDXSN36-L1/S4/P13, NFDXSN35-L1/S4/P13",
+    "san_status": "shutdown",
+    "san_type": "明确上架",
+    "san_switch_location": "9-2D13-3",
+    "ip_port": "",
+    "ip_status": "",
+    "ip_type": "",
+    "ip_switch_location": ""
+  },
+  {
+    "number": "10100052426",
+    "location": "9-2D11-01",
+    "san_port": "NFDXSN36-L1/S4/P14, NFDXSN35-L1/S4/P14",
+    "san_status": "shutdown",
+    "san_type": "明确上架",
+    "san_switch_location": "9-2D13-3",
+    "ip_port": "",
+    "ip_status": "",
+    "ip_type": "",
+    "ip_switch_location": ""
+  },
+  {
+    "number": "10100052426",
+    "location": "9-2D11-01",
+    "san_port": "NFDXSN36-L1/S4/P15, NFDXSN35-L1/S4/P15",
+    "san_status": "shutdown",
+    "san_type": "明确上架",
+    "san_switch_location": "9-2D13-3",
+    "ip_port": "",
+    "ip_status": "",
+    "ip_type": "",
+    "ip_switch_location": ""
+  },
+  {
+    "number": "10100052426",
+    "location": "9-2D11-01",
+    "san_port": "NFDXSN36-L1/S4/P16, NFDXSN35-L1/S4/P16",
+    "san_status": "shutdown",
+    "san_type": "明确上架",
+    "san_switch_location": "9-2D13-3",
+    "ip_port": "",
+    "ip_status": "",
+    "ip_type": "",
+    "ip_switch_location": ""
+  }
+]

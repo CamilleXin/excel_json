@@ -1,0 +1,16 @@
+{
+  "excel_name": "插线表2.xls",
+  "sheet_name": "sh1",
+  "titles": {
+    "J": {"label": "IP交换机位置", "key": "ip_switch_location", "default": ""},
+    "A": {"label": "前置机号", "key": "number", "default": ""},
+    "B": {"label": "物理位置", "key": "location", "default": ""},
+    "C": {"label": "SAN端口", "key": "san_port", "default": ""},
+    "D": {"label": "SAN端口状态", "key": "san_status", "default": ""},
+    "E": {"label": "SAN上架类型", "key": "san_type", "default": ""},
+    "G": {"label": "IP端口", "key": "ip_port", "default": "666"},
+    "F": {"label": "SAN交换机位置", "key": "san_switch_location", "default": ""},
+    "H": {"label": "IP端口状态", "key": "ip_status", "default": ""},
+    "I": {"label": "IP上架类型", "key": "ip_type", "default": ""}
+  }
+}
