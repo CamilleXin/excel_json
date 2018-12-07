@@ -1,0 +1,4 @@
+hostname, if_index,if_name,if_description
+hostname1,151126017,Vlan1,
+hostname1,369098762,port-channel11,Peer
+hostname1,83886080,mgmt0,
